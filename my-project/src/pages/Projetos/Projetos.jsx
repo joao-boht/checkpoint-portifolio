@@ -1,4 +1,3 @@
-import React from 'react';
 function Projeto({ titulo, descricao }) {
   return (
     <div className="bg-white p-6 rounded-lg shadow-lg mb-6 max-w-lg">
