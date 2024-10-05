@@ -1,0 +1,1 @@
+CheckPoint 2 WebDev, react-icons, react-router-dom, tailwind configs, implementacao de rotas, estilização 100% independente de CSS, e Vite.
